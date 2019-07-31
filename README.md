@@ -7,7 +7,7 @@
 
 This project is available at the google play store: 
 <br>
-![picture](https://play.google.com/store/apps/details?id=com.tasch.tobiasschoch.calculator&hl=de)
+![picture](play.png)
 <br>
 
 If you want to evaluate or continue the project, just fork it.
