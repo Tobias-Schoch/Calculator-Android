@@ -6,8 +6,7 @@
 ## 📦 The Project
 
 This project is available at the google play store: 
-<br>
-![picture](play.png)
+<br><a href='(https://play.google.com/store/apps/details?id=com.tasch.tobiasschoch.calculator)'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 <br>
 
 If you want to evaluate or continue the project, just fork it.
@@ -29,3 +28,7 @@ You can find it at https://github.com/Tobias-Schoch/Calculator-Android.git
 - All features you need in the real world ( Nothing for unrealistic calculations) 
 - Implemented Double and Int
 
+## 📋 License
+
+Licensed under the GPLv3: http://www.gnu.org/licenses/gpl-3.0.html
+Google Play and the Google Play logo are trademarks of Google Inc.
