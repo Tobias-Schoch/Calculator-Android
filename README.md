@@ -5,7 +5,6 @@
 
 ## 📦 The Project
 
-This project is available at the google play store: 
 <br><a href='(https://play.google.com/store/apps/details?id=com.tasch.tobiasschoch.calculator)'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 <br>
 
