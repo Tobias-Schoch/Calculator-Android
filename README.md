@@ -28,6 +28,8 @@ You can find it at https://github.com/Tobias-Schoch/Calculator-Android.git
 - All features you need in the real world ( Nothing for unrealistic calculations) 
 - Implemented Double and Int
 
+<br>
+
 ## 📋 License
 
 Licensed under the GPLv3: http://www.gnu.org/licenses/gpl-3.0.html
